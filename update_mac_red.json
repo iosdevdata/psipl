@@ -1,0 +1,8 @@
+{
+  "version": 100,
+  "releaseNotes": [
+    "Это первая версия MacOS приложения Фонбет!",
+    "Поэтому это не обновление"
+  ],
+  "url": "https://rink.hockeyapp.net/api/2/apps/2f638ecfcb5a4675a2f57d3cc70dfd86/app_versions/12?format=zip"
+}
