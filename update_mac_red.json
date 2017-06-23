@@ -1,8 +1,8 @@
 {
-  "version": 100,
+  "version": 872,
   "releaseNotes": [
-    "Это первая версия MacOS приложения Фонбет!",
-    "Поэтому это не обновление"
+    "Тест обновления приложения",
+    "Это новая версия, в которой нет ничего нового"
   ],
-  "url": "https://rink.hockeyapp.net/api/2/apps/2f638ecfcb5a4675a2f57d3cc70dfd86/app_versions/12?format=zip"
+  "url": "http://static.bkfon-resource.ru/download/mobile/mac/fonbet-r-872.zip"
 }
